@@ -7,4 +7,4 @@
 * Initial release with all code, Github actions, and non-code
   documentation.
 
-[Unreleased]: https://github.com/pabigot/logwrap/compare/main...next
+[Unreleased]: https://github.com/pabigot/edcode/compare/main...next
